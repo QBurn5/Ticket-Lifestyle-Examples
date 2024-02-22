@@ -3,24 +3,24 @@
 </p>
 
 <h1>osTicket - Ticket Examples</h1>
-Practice examples in OSTicket .<br />
+Practice examples in osTicket .<br />
 
 
 <h2>Video Demonstration</h2>
 
 - ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
-<h2>Environments and Technologies Used</h2>
+<h2>Example 1</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+<h2>Example 2</h2>
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Example 3</h2>
 
 - Item 1
 - Item 2
