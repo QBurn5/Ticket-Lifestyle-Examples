@@ -5,59 +5,24 @@
 <h1>osTicket - Ticket Examples</h1>
 Practice examples in osTicket .<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+![Screenshot 2024-02-26 160212](https://github.com/QBurn5/Ticket-Lifestyle-Examples/assets/93794708/85159954-b159-4a17-835e-6205f17c7882)
 
 <h2>Example 1</h2>
+<p align="left"><b>- Creation/Open Ticket</b>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
 
+![Screenshot 2024-02-26 160704](https://github.com/QBurn5/Ticket-Lifestyle-Examples/assets/93794708/355cf12e-18d1-4c67-807b-f7474b51318e)
+</p>
+<p align="left"><b>- Closed Ticket</b>
+
+![Screenshot 2024-02-26 161603](https://github.com/QBurn5/Ticket-Lifestyle-Examples/assets/93794708/ca63225b-1428-46e2-a630-7cb9bbdc0243)
+</p>
 <h2>Example 2</h2>
 
-- Windows 10</b> (21H2)
+<p align="left"><b>- Creation/Open Ticket</b>
 
-<h2>Example 3</h2>
+![Screenshot 2024-02-26 164424](https://github.com/QBurn5/Ticket-Lifestyle-Examples/assets/93794708/e141e701-9ab8-4bd1-aadc-4ef06e3cad7e)
+<p align="left"><b>- Closed Ticket</b>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
-<h2>Installation Steps</h2>
-
-<p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![Screenshot 2024-02-26 162537](https://github.com/QBurn5/Ticket-Lifestyle-Examples/assets/93794708/9fa1adc7-1b09-43f2-8c4e-e1fe6b371245)
+![Screenshot 2024-02-26 162723](https://github.com/QBurn5/Ticket-Lifestyle-Examples/assets/93794708/2c5960db-9dae-41ad-9053-609e88d46a0a)
